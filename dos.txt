@@ -1,0 +1,3 @@
+estoy modificando el segundo archivo
+en mi primer dia con git 
+
